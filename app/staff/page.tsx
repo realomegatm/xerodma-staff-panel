@@ -130,7 +130,7 @@ export default function StaffLoginPage() {
                     </CardContent>
                 </Card>
 
-                <div className='text-center text-sm text-muted-foreground'>© 2024 XERODMA. All rights reserved.</div>
+                <div className='text-center text-sm text-muted-foreground'>Â© 2024 XERODMA. All rights reserved.</div>
             </div>
         </div>
     );

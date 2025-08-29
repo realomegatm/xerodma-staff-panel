@@ -1,5 +1,4 @@
- 
-'use client';
+ 'use client';
 import { useSession, signOut } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
 import { useEffect } from 'react';
@@ -227,7 +226,7 @@ export default function StaffDashboardPage() {
                         <span className='text-lg font-bold text-foreground'>XERODMA</span>
                     </div>
                     <p className='text-sm text-muted-foreground'>Professional Gaming Tools & Hardware Solutions</p>
-                    <p className='text-xs text-muted-foreground mt-1'>© 2024 XERODMA. All rights reserved.</p>
+                    <p className='text-xs text-muted-foreground mt-1'>Â© 2024 XERODMA. All rights reserved.</p>
                 </div>
             </div>
         </DashboardLayout>

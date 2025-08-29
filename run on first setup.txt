@@ -1,0 +1,6 @@
+npx shadcn@latest add "https://v0.app/chat/b/b_wlvH69uuHbq?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..CCmpJWfvYi6nVvIW.MEsWDF1OknZQXNeqI-orDtDClapuGfBFlTrxGMNwHbVNO-EB6rG8jrsGkAU.yMqUXM2eInf2pWxjQhAwOw"
+
+pnpm add next-auth @prisma/client @auth/prisma-adapter bcryptjs
+pnpm add -D prisma ts-node @types/bcryptjs
+
+npx prisma init --datasource-provider mysql

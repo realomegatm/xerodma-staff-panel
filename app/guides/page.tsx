@@ -225,7 +225,7 @@ export default function PublicGuidesPage() {
                     </Dialog>
 
                     <div className='text-center py-8 border-t border-border'>
-                        <p className='text-sm text-muted-foreground'>© 2024 XERODMA. All rights reserved.</p>
+                        <p className='text-sm text-muted-foreground'>Â© 2024 XERODMA. All rights reserved.</p>
                     </div>
                 </div>
             </div>
